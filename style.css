@@ -1,0 +1,73 @@
+.first{
+    text-align: center;
+
+}
+
+.stm{
+    width: 300px;
+}
+.logotesto{
+    color: lime;
+    
+}
+
+.bottoni{
+    text-align: center;
+    background-color: lime;
+    shape-margin: 350px;
+    padding: 15px;
+    
+}
+
+.firsts{
+    color: white;
+    
+}
+
+.seconds{
+    color: white;
+}
+
+.thirds{
+    color: white;
+}
+
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+    font-family: 'Poppins', sans-serif;
+    
+
+    
+}
+
+.container{
+    width: 1500px;
+    margin:auto;
+    background-color:rgba(0, 0, 0, 0.404);
+    padding: 130px;
+    margin-top: 60px;
+    border-radius: 20px;
+
+}
+.firstcharge{
+    background-color: orange;
+    height: 35px;
+    width: 450px;
+    border-radius: 10px;
+}
+
+.secondcharge{
+    background-color: green;
+    height: 35px;
+    width: 730px;
+    border-radius: 10px;
+}
+
+.thirdcharge{
+    background-color: red;
+    height: 35px;
+    width: 200px;
+    border-radius: 10px;
+}
+
